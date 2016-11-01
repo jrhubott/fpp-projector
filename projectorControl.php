@@ -1,0 +1,1 @@
+/opt/fpp/www/projectorControl.php
